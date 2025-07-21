@@ -32,7 +32,7 @@ import org.slf4j.Logger;
 @Mod(XinchenEthanForgeMod.MODID)
 public class XinchenEthanForgeMod {
     // Define mod id in a common place for everything to reference
-    public static final String MODID = "XinchenEthanForgeMod";
+    public static final String MODID = "xinchenethanforgemod";
     // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
